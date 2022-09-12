@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_health"
+            android:icon="@drawable/ic_health_care_healthcare_health_service_health_clinic_svgrepo_com"
+            android:title="Medições"/>
+
+        <item android:id="@+id/nav_dispositvos"
+            android:icon="@drawable/ic_medical_equipment_svgrepo_com"
+            android:title="Dispositivos"/>
+
+        <item android:id="@+id/nav_history"
+            android:icon="@drawable/ic_medical_equipment_svgrepo_com"
+            android:title="History De Oxigenação"/>
+
+        <item android:id="@+id/nav_historyPr"
+            android:icon="@drawable/ic_medical_equipment_svgrepo_com"
+            android:title="History De Batimentos Cardíacos"/>
+    </group>
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Interface/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15" />
+        <entry key="..\:/Interface/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/Interface/app/src/main/res/drawable/ic_medical_equipment_svgrepo_com.xml" value="0.15" />
+        <entry key="..\:/Interface/app/src/main/res/drawable/ic_mental_sustainability_mental_health_mind_conceptual_environment_ecology_svgrepo_com.xml" value="0.15" />
+        <entry key="..\:/Interface/app/src/main/res/layout/activity_dashboard.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface/app/src/main/res/layout/activity_dispositivos.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface/app/src/main/res/layout/activity_drawe_base.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface/app/src/main/res/layout/activity_main.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface/app/src/main/res/layout/activity_main2.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface/app/src/main/res/layout/activity_medicoes.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface/app/src/main/res/layout/activity_splash.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface/app/src/main/res/layout/content_layout.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface/app/src/main/res/layout/fragment_connect.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface/app/src/main/res/layout/list_bluetooth.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface/app/src/main/res/layout/main_drawer_header.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface/app/src/main/res/menu/main_drawer_menu.xml" value="0.3255208333333333" />
+        <entry key="..\:/Interface1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15" />
+        <entry key="..\:/Interface1/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.15" />
+        <entry key="..\:/Interface1/app/src/main/res/drawable/ic_medical_equipment_svgrepo_com.xml" value="0.15" />
+        <entry key="..\:/Interface1/app/src/main/res/drawable/ic_medical_stethoscope_svgrepo_com.xml" value="0.15" />
+        <entry key="..\:/Interface1/app/src/main/res/drawable/ic_mental_sustainability_mental_health_mind_conceptual_environment_ecology_svgrepo_com.xml" value="0.15" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_dashboard.xml" value="0.165" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_dispositivos.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_drawe_base.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_live_prhistory.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_main.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_main2.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_main3.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_medicoes.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/activity_splash.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/content_layout.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/fragment_connect.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/list_bluetooth.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/livehistory.xml" value="0.2164855072463768" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/login_activity.xml" value="0.17239583333333333" />
+        <entry key="..\:/Interface1/app/src/main/res/layout/main_drawer_header.xml" value="0.16041666666666668" />
+        <entry key="..\:/Interface1/app/src/main/res/menu/main_drawer_menu.xml" value="0.3255208333333333" />
+        <entry key="..\:/Interface1/autenticacao/src/main/res/layout/login_activity.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
